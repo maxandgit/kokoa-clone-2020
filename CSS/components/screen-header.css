@@ -17,8 +17,14 @@
     margin-left: 25px;
   }
 
-  .dot_position {
+.dot_position {
     position: absolute;
     left: 70px;
+    bottom: 25px;
+  }
+
+.dot_position__2 {
+    position: absolute;
+    left: 120px;
     bottom: 25px;
   }
