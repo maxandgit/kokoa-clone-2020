@@ -54,3 +54,8 @@
   margin-bottom: 10px;
   display: block;
 }
+
+
+.user-component__text i {
+  color: rgba(255, 0, 0, 0.75);
+}
