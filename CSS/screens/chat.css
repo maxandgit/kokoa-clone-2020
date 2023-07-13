@@ -1,0 +1,35 @@
+#caht-screen {
+    background-color: #abc1d1;
+    height: 1000vh;
+}
+
+.main-chat {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#caht-screen .alt-header {
+    position: fixed;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #abc1d1;
+}
+
+.chat_timestamp {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(128, 128, 128, 0.5);
+    color: white;
+    text-align: center;
+    padding: 8px 15px;
+    border-radius: 25px;
+    z-index: -1;
+    font-size: 14px;
+}
+
+.chat-bar {
+    background-color: #abc1d1;
+
+}
